@@ -1,0 +1,22 @@
+div{
+    background-color: #f0f4f3;
+    margin: auto;
+    width: fit-content;
+}
+
+.input{
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+
+.authButton{
+    padding: 10px;
+    width: 300px;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    font-family: Verdana, serif;
+    font-weight: bolder;
+    background-color: #4cb050;
+}
